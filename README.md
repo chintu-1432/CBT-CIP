@@ -1,10 +1,10 @@
-# 📚 Library Catalog System (Java)
+# Library Catalog System (Java)
 
 A beginner-friendly Java mini project that allows users to manage a catalog of books through a console interface. This application enables users to add books, view the complete library, and search books by title or author. It uses *file-based storage* (books.txt) to maintain book data between sessions — making it practical for real-world learning and simple deployment.
 
 ---
 
-## 🔍 Project Overview
+##  Project Overview
 
 The *Library Catalog System* is a console-based Java program built for educational use or as a mini-project submission. It follows a modular object-oriented design, separating book logic, catalog management, and user interface into different Java classes.
 
@@ -12,19 +12,19 @@ Unlike other examples found online, this project is *100% custom-coded* with use
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
-- ➕ Add new books (title, author, ISBN)
-- 📖 Display all stored books in a formatted list
-- 🔎 Search for books by *title*
-- 🔍 Search for books by *author*
-- 💾 File-based data persistence using books.txt
-- 🧼 Clean user interface with input validation
-- 🗃 Simple folder structure (no src/ folder)
+-  Add new books (title, author, ISBN)
+-  Display all stored books in a formatted list
+-  Search for books by *title*
+-  Search for books by *author*
+-  File-based data persistence using books.txt
+-  Clean user interface with input validation
+-  Simple folder structure (no src/ folder)
 
 ---
 
-## 🗂 File Structure
+##  File Structure
 
 LibraryCatalogSystem/
 ├── Book.java                 # Book class (title, author, isbn)
@@ -33,11 +33,11 @@ LibraryCatalogSystem/
 ├── books.txt                 # Auto-created file storing book data
 
 
-> 📌 Note: books.txt is created automatically after adding the first book.
+>  Note: books.txt is created automatically after adding the first book.
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - *Java* (JDK 8 or later)
 - File I/O (FileWriter, Scanner)
@@ -46,9 +46,9 @@ LibraryCatalogSystem/
 
 ---
 
-## 🚀 How to Compile and Run
+##  How to Compile and Run
 
-### 💻 Step-by-Step:
+###  Step-by-Step:
 
 1. Make sure all .java files are in the same folder (e.g., LibraryCatalogSystem/).
 2. Open terminal or command prompt inside that folder.
